@@ -1,11 +1,11 @@
 # Equestrian road safety in the United Kingdom: factors associated with collisions and horse fatalities: Datasets and analysis code
-DOI to be inserted here
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4286186.svg)](https://doi.org/10.5281/zenodo.4286186)
 
 ## Introduction
 This repository contains datasets and code used for the manuscript as titled above. All pertinent details regarding the data source and considerations that should be noted are discussed in the manuscript. 
 
 ## Referencing this dataset
-Danica Pollard & John Grewar (2020) Equestrian road safety in the United Kingdom: factors associated with collisions and horse fatalities \[Dataset]\. British Horse Society. DOI URL to be inserted here
+Danica Pollard & John Grewar (2020) Equestrian road safety in the United Kingdom: factors associated with collisions and horse fatalities \[Dataset]\. British Horse Society. http://doi.org/10.5281/zenodo.4286186
 
 ## STATA code for descriptive, univariable and multivariable modelling  
 The descriptive and modelling analysis for the manuscript was performed using [STATA](https://www.stata.com/). The associated code is available in the *stata_manuscript_code.do* file. 
